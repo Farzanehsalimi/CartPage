@@ -8,7 +8,7 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: "#4A6DFF",
+        primary: "#8e64e2",
         secondary: "#3F4264",
         "secondary-dark": "#2A2D53",
         "secondary-light": "#6A6C87",
@@ -20,12 +20,13 @@ module.exports = {
         "border-color": "#DFDFE580",
         "receipt-color": "#555775",
         "background-color": "#ccc",
+        "hover-color": "#6d28d9",
       },
       fontSize: {
         "2xs": "10px",
       },
       fontFamily: {
-        vazir: ["Vazirmatn", "sans-serif"],
+        vazir: ["vazir", "sans-serif"],
       },
     },
   },
