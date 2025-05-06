@@ -9,23 +9,23 @@ const courses = [
     details: [
       {
         label: "ساعت",
-        value: "45",
+        value: "100",
         icon: "/src/assets/icons/Clock.svg",
       },
       {
         label: "+ دانشجو",
-        value: "1300",
+        value: "2000",
         icon: "/src/assets/icons/Clock.svg",
       },
 
       {
         label: "جلسه",
-        value: "270",
+        value: "300",
         icon: "/src/assets/icons/Presentation.svg",
       },
     ],
     teacher: "صاحب محمدی",
-    price: "6298000",
+    price: "7471000",
   },
   {
     id: 2,
@@ -35,23 +35,23 @@ const courses = [
     details: [
       {
         label: "ساعت",
-        value: "45",
+        value: "50",
         icon: "/src/assets/icons/Clock.svg",
       },
       {
         label: "+ دانشجو",
-        value: "1300",
+        value: "900",
         icon: "/src/assets/icons/Clock.svg",
       },
 
       {
         label: "جلسه",
-        value: "270",
+        value: "170",
         icon: "/src/assets/icons/Presentation.svg",
       },
     ],
     teacher: "صاحب محمدی",
-    price: "6298000",
+    price: "8558000",
   },
   {
     id: 3,
@@ -77,7 +77,7 @@ const courses = [
       },
     ],
     teacher: "صاحب محمدی",
-    price: "6298000",
+    price: "3453000",
   },
   {
     id: 4,
@@ -87,23 +87,23 @@ const courses = [
     details: [
       {
         label: "ساعت",
-        value: "45",
+        value: "65",
         icon: "/src/assets/icons/Clock.svg",
       },
       {
         label: "+ دانشجو",
-        value: "1300",
+        value: "500",
         icon: "/src/assets/icons/Clock.svg",
       },
 
       {
         label: "جلسه",
-        value: "270",
+        value: "70",
         icon: "/src/assets/icons/Presentation.svg",
       },
     ],
     teacher: "صاحب محمدی",
-    price: "6298000",
+    price: "300000",
   },
   {
     id: 5,
@@ -113,23 +113,23 @@ const courses = [
     details: [
       {
         label: "ساعت",
-        value: "45",
+        value: "50",
         icon: "/src/assets/icons/Clock.svg",
       },
       {
         label: "+ دانشجو",
-        value: "1300",
+        value: "3000",
         icon: "/src/assets/icons/Clock.svg",
       },
 
       {
         label: "جلسه",
-        value: "270",
+        value: "100",
         icon: "/src/assets/icons/Presentation.svg",
       },
     ],
     teacher: "صاحب محمدی",
-    price: "6298000",
+    price: "346000",
   },
   {
     id: 6,
@@ -139,23 +139,23 @@ const courses = [
     details: [
       {
         label: "ساعت",
-        value: "45",
+        value: "20",
         icon: "/src/assets/icons/Clock.svg",
       },
       {
         label: "+ دانشجو",
-        value: "1300",
+        value: "300",
         icon: "/src/assets/icons/Clock.svg",
       },
 
       {
         label: "جلسه",
-        value: "270",
+        value: "80",
         icon: "/src/assets/icons/Presentation.svg",
       },
     ],
     teacher: "صاحب محمدی",
-    price: "6298000",
+    price: "540000",
   },
 ];
 
