@@ -52,7 +52,7 @@ function ProductCard({ course }) {
             </span>
           </div>
         </div>
-        <div className="flex items-center gap-x-2">
+        <div className="flex items-center justify-between gap-x-2">
           <div>
             <span className="text-primary text-sm md:text-xl font-black">
               {toPersianFormatted(course.price)}

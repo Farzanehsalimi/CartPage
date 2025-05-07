@@ -31,7 +31,7 @@ const courses = [
     id: 2,
     courseImageUrl: "/src/assets/images/nextjs.svg",
     teacherImageUrl: "/src/assets/images/saheb-mohamadi.jpg",
-    title: "دوره ی متخصص Next.js",
+    title: "دوره ی حرفه ای متخصص Next.js",
     details: [
       {
         label: "ساعت",
@@ -57,7 +57,7 @@ const courses = [
     id: 3,
     courseImageUrl: "/src/assets/images/javascript.svg",
     teacherImageUrl: "/src/assets/images/saheb-mohamadi.jpg",
-    title: "دوره ی  پیشرفته جاوااسکریپت",
+    title: "دوره ی حرفه پیشرفته جاوااسکریپت",
     details: [
       {
         label: "ساعت",
@@ -83,7 +83,7 @@ const courses = [
     id: 4,
     courseImageUrl: "/src/assets/images/tailwind.svg",
     teacherImageUrl: "/src/assets/images/saheb-mohamadi.jpg",
-    title: "دوره ی جامع و پیشرفته تیلویند",
+    title: "دوره ی حرفه ای جامع پیشرفته تیلویند",
     details: [
       {
         label: "ساعت",
@@ -103,13 +103,13 @@ const courses = [
       },
     ],
     teacher: "صاحب محمدی",
-    price: "300000",
+    price: "3000000",
   },
   {
     id: 5,
     courseImageUrl: "/src/assets/images/responsive-web.svg",
     teacherImageUrl: "/src/assets/images/saheb-mohamadi.jpg",
-    title: "دوره ی طراحی وب رسپانسیو",
+    title: "دوره ی حرفه طراحی وب رسپانسیو",
     details: [
       {
         label: "ساعت",
@@ -129,7 +129,7 @@ const courses = [
       },
     ],
     teacher: "صاحب محمدی",
-    price: "346000",
+    price: "3460000",
   },
   {
     id: 6,
@@ -155,7 +155,7 @@ const courses = [
       },
     ],
     teacher: "صاحب محمدی",
-    price: "540000",
+    price: "5400000",
   },
 ];
 
